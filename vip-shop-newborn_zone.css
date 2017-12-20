@@ -1,0 +1,114 @@
+.box {
+  width: 1903px;
+  height: 605px;
+}
+.box .tittle {
+  text-align: center;
+}
+.box .banner {
+  float: left;
+  overflow: hidden;
+  width: 1903px;
+  height: 139px;
+}
+.box .banner ul {
+  width: 1287px;
+  height: 139px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.box .banner ul li {
+  width: 111px;
+  height: 139px;
+  list-style: none;
+  margin: 0 0 0 40px;
+  float: left;
+}
+.box .banner ul li a {
+  text-decoration: none;
+}
+.box .banner ul li a div {
+  width: 111px;
+  height: 28px;
+  text-align: center;
+  color: #111122;
+}
+.box .navigator {
+  width: 1903px;
+  height: 366px;
+}
+.box .navigator .nav-left {
+  width: 570px;
+  height: 366px;
+  background-image: url("left.png");
+  float: left;
+  margin-left: 370px;
+  margin-right: 30px;
+}
+.box .navigator .nav-left ul {
+  width: 570px;
+  height: 130px;
+  margin-top: 226px;
+  padding-left: 0;
+}
+.box .navigator .nav-left ul li {
+  width: 130px;
+  height: 130px;
+  background-color: #fff;
+  float: left;
+  list-style: none;
+  margin-left: 10px;
+  border-radius: 5px;
+}
+.box .navigator .nav-left ul li a {
+  width: 130px;
+  height: 130px;
+  text-decoration: none;
+}
+.box .navigator .nav-left ul li a img {
+  text-align: center;
+  margin-left: 31px;
+  margin-top: 23px;
+}
+.box .navigator .nav-left ul li a div {
+  text-align: center;
+  color: #000;
+}
+.box .navigator .nav-right {
+  width: 570px;
+  height: 366px;
+  background-image: url("bg_beauty.png");
+  margin: 0;
+  float: left;
+}
+.box .navigator .nav-right ul {
+  width: 570px;
+  height: 130px;
+  margin-top: 226px;
+  padding-left: 0;
+}
+.box .navigator .nav-right ul li {
+  width: 130px;
+  height: 130px;
+  background-color: #fff;
+  float: left;
+  list-style: none;
+  margin-left: 10px;
+  border-radius: 5px;
+}
+.box .navigator .nav-right ul li a {
+  width: 130px;
+  height: 130px;
+  text-decoration: none;
+}
+.box .navigator .nav-right ul li a img {
+  text-align: center;
+  margin-left: 31px;
+  margin-top: 23px;
+}
+.box .navigator .nav-right ul li a div {
+  text-align: center;
+  color: #000;
+}
